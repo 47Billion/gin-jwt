@@ -113,7 +113,6 @@ func (mw *GinJWTMiddleware) MiddlewareInit() error {
 	if mw.Key == nil {
 		return errors.New("secret key is required")
 	}
-
 	return nil
 }
 
