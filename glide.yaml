@@ -1,4 +1,4 @@
-package: github.com/appleboy/gin-jwt
+package: github.com/47Billion/gin-jwt
 import:
 - package: github.com/fvbock/endless
 - package: github.com/gin-gonic/gin
